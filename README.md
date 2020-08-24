@@ -1,4 +1,4 @@
-# Discord UI clone
+# Github UI clone
 Projeto feito junto ao vídeo da Rocketseat clonando a interface do Github.
 <a href="https://www.youtube.com/watch?v=iLEbGQXsg3k">Link para o vídeo</a>
 
